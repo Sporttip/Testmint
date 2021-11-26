@@ -24,7 +24,7 @@
     "web3": "^1.5.1",
     "web3-eth-contract": "^1.5.2"
   },
-  "homepage": "http://Sporttip.github.io/Testmint",
+  "homepage": "http://Sporttip.github.io/minting",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
