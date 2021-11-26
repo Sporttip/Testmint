@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/minting/static/css/main.b795fe85.chunk.css",
-    "main.js": "/minting/static/js/main.038ab178.chunk.js",
-    "main.js.map": "/minting/static/js/main.038ab178.chunk.js.map",
-    "runtime-main.js": "/minting/static/js/runtime-main.3e7026b1.js",
-    "runtime-main.js.map": "/minting/static/js/runtime-main.3e7026b1.js.map",
-    "static/js/2.0bb93a2f.chunk.js": "/minting/static/js/2.0bb93a2f.chunk.js",
-    "static/js/2.0bb93a2f.chunk.js.map": "/minting/static/js/2.0bb93a2f.chunk.js.map",
-    "static/js/3.a64233a7.chunk.js": "/minting/static/js/3.a64233a7.chunk.js",
-    "static/js/3.a64233a7.chunk.js.map": "/minting/static/js/3.a64233a7.chunk.js.map",
-    "index.html": "/minting/index.html",
-    "static/css/main.b795fe85.chunk.css.map": "/minting/static/css/main.b795fe85.chunk.css.map",
-    "static/js/2.0bb93a2f.chunk.js.LICENSE.txt": "/minting/static/js/2.0bb93a2f.chunk.js.LICENSE.txt",
-    "static/media/1.75f03515.png": "/minting/static/media/1.75f03515.png",
-    "static/media/reset.css": "/minting/static/media/PressStart2P-Regular.f2341734.woff"
+    "main.css": "/Testmint/static/css/main.dad2d0d5.chunk.css",
+    "main.js": "/Testmint/static/js/main.038ab178.chunk.js",
+    "main.js.map": "/Testmint/static/js/main.038ab178.chunk.js.map",
+    "runtime-main.js": "/Testmint/static/js/runtime-main.751d4a13.js",
+    "runtime-main.js.map": "/Testmint/static/js/runtime-main.751d4a13.js.map",
+    "static/js/2.2bcdeb61.chunk.js": "/Testmint/static/js/2.2bcdeb61.chunk.js",
+    "static/js/2.2bcdeb61.chunk.js.map": "/Testmint/static/js/2.2bcdeb61.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/Testmint/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/Testmint/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/Testmint/index.html",
+    "static/css/main.dad2d0d5.chunk.css.map": "/Testmint/static/css/main.dad2d0d5.chunk.css.map",
+    "static/js/2.2bcdeb61.chunk.js.LICENSE.txt": "/Testmint/static/js/2.2bcdeb61.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/Testmint/static/media/1.75f03515.png",
+    "static/media/reset.css": "/Testmint/static/media/PressStart2P-Regular.f2341734.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e7026b1.js",
-    "static/js/2.0bb93a2f.chunk.js",
-    "static/css/main.b795fe85.chunk.css",
+    "static/js/runtime-main.751d4a13.js",
+    "static/js/2.2bcdeb61.chunk.js",
+    "static/css/main.dad2d0d5.chunk.css",
     "static/js/main.038ab178.chunk.js"
   ]
 }
